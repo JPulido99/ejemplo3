@@ -11,7 +11,7 @@ public class EjemploApplication {
 
 	@GetMapping("/message")
 	public String message() {
-		return "Hola";
+		return "Hola virgulilleros perreadores";
 	}
 	
 	public static void main(String[] args) {
